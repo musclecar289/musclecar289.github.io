@@ -1,0 +1,37 @@
+h1 {
+  font-family: Georgia, serif;
+    font-size: 2rem;
+    color: rgb(87, 70, 70);
+}
+
+body{
+    background-image: url(white_paperboard_@2X.png);
+    margin; 2rem;
+    text-align: center;
+}
+
+nav ul {
+  display: inline;
+}
+
+nav li {
+  display: inline;
+  margin: 0;
+  padding: 0 10px;
+}
+.contact-btn {
+  float: right;
+}
+
+.contact-btn a {
+  position: relative;
+  cursor: pointer;
+  margin-right: 30px;
+  padding: 8px 18px;
+  border: 1px solid #204156;
+
+}
+
+.contact-btn a:active {
+	top: 2px;
+}
